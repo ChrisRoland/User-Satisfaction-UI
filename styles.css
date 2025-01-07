@@ -107,3 +107,7 @@ body {
     font-size: 30px;
     margin-bottom: 10px;
 }
+
+p {
+    margin: 10px 0;
+}
